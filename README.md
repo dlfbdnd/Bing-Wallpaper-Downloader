@@ -3,7 +3,7 @@ As the description says, it downloads background pictures from Bing.com.
 It is simple to run, just download the .py file and run it in Python 3 (E.g. $ "python3 Bing_Wallpaper_Downloader.py")
 
 The script uses HTTPS connection, and download speed may differ from one location to another.
-If there are problems with the modules (let's say some modules are missing, run $ "pip3 install os datetime re calendar urllib)
+If there are problems with the modules (let's say some modules are missing, run $ "pip3 install os datetime re calendar urllib")
 
 By default, batch-download feature is enabled and will download all 9 pictures displayed on Bing.com.
 You can also comment and uncomment rows to enable user-specified-download feature, which prompts for the day offset.
