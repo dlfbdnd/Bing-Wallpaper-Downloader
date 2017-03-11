@@ -7,7 +7,7 @@ Once started, the singular version prompts for user input as day offset (to down
 The script uses HTTPS connection, and download speed may vary from one location to another.
 If there are problems with the modules (let's say some modules are missing, run $ "pip3 install os datetime re calendar urllib")
 
-Ehh... there's one last thing, the language code is currently set to "zh-CN", if you are want the pictures from other locations, 
+Ehh... there's one last thing, the language code is currently set to "zh-CN", if you want the pictures from other locations, 
 change that to any of the following: 
 (I got this from the Internet, and some may give you the same pictures.)
 format: mkt=<Language Code>-<Country Code>
